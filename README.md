@@ -9,5 +9,4 @@ This repository provides an **augmented version** of the [Home Value Insights da
 - **Noise Level:** 1%
 - **Goal:** To introduce small perturbations and test the robustness of predictive models for house price forecasting.
 
-## 📁 Folder Structure
 
